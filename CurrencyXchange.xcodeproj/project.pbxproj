@@ -22,14 +22,14 @@
 		23145BAB158686E6003A2B39 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		23145BAD158686E6003A2B39 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23145BAF158686E6003A2B39 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		23145BB3158686E6003A2B39 /* CurrencyXchange-Info.plist */ = {isa = PBXFileReference; path = "CurrencyXchange-Info.plist"; sourceTree = "<group>"; };
+		23145BB3158686E6003A2B39 /* CurrencyXchange-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CurrencyXchange-Info.plist"; sourceTree = "<group>"; };
 		23145BB5158686E6003A2B39 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		23145BB7158686E6003A2B39 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		23145BB9158686E6003A2B39 /* CurrencyXchange-Prefix.pch */ = {isa = PBXFileReference; path = "CurrencyXchange-Prefix.pch"; sourceTree = "<group>"; };
-		23145BBA158686E6003A2B39 /* CurrencyXchangeAppDelegate.h */ = {isa = PBXFileReference; path = CurrencyXchangeAppDelegate.h; sourceTree = "<group>"; };
+		23145BB9158686E6003A2B39 /* CurrencyXchange-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CurrencyXchange-Prefix.pch"; sourceTree = "<group>"; };
+		23145BBA158686E6003A2B39 /* CurrencyXchangeAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CurrencyXchangeAppDelegate.h; sourceTree = "<group>"; };
 		23145BBB158686E6003A2B39 /* CurrencyXchangeAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CurrencyXchangeAppDelegate.m; sourceTree = "<group>"; };
 		23145BBE158686E6003A2B39 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		23145BC0158686E6003A2B39 /* CurrencyXchangeViewController.h */ = {isa = PBXFileReference; path = CurrencyXchangeViewController.h; sourceTree = "<group>"; };
+		23145BC0158686E6003A2B39 /* CurrencyXchangeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CurrencyXchangeViewController.h; sourceTree = "<group>"; };
 		23145BC1158686E6003A2B39 /* CurrencyXchangeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CurrencyXchangeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
